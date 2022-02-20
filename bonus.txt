@@ -1,0 +1,1 @@
+Just limited scanf with 100 characters so that Buffer Overflow exploit does not work.
